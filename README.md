@@ -53,3 +53,4 @@ Os dois projetos devem estar disponíveis no gitlab na conta de seu usuário. Ao
 
 * Autenticação com oAuth2 na API (Laravel passport).
 * Utilizar Vue.JS no Frontent.
+* App mobile hibrido integrado com a API.
