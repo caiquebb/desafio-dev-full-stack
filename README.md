@@ -22,6 +22,10 @@ O Segundo projeto será responsável pelo frontend do sistema e devera seguir as
 * Responsivo
 * Integrado com a API.
 
+### Entrega
+
+Os dois projetos devem estar disponiveis no gitlab na conta de seu usuário. Ao entrar na página de seu projeto exibir o readme explicando o que é cada projeto e com um passo a passo para a instalação do mesmo.
+
 ## User Stories
 
 ### MVP
@@ -48,4 +52,4 @@ O Segundo projeto será responsável pelo frontend do sistema e devera seguir as
 ## Diferenciais
 
 * Autenticação com oAuth2 na API (Laravel passport).
-* Utiliza Vue.JS no Frontent.
+* Utilizar Vue.JS no Frontent.
