@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este desafio tem a finalidade de qualificar você que ser um integrante do time de desenvolvimento da AGV, como um Desenvolvedor WEB PHP FULL-STACK.
+Este desafio tem a finalidade de qualificar você que quer ser um integrante do time de desenvolvimento da AGV, como um Desenvolvedor WEB PHP FULL-STACK.
 
 ## Requisitos
 
